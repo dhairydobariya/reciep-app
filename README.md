@@ -5,11 +5,17 @@ const documentation = `
 
 This API allows you to manage recipes, user authentication, and much more. The API includes functionality such as user registration, login, and recipe management. Swagger UI is used for generating API documentation and testing.
 
+
+##
+this app live in render 
+link = https://reciep-app-ceoj.onrender.com
+
+
 ## Technologies Used
 - **Express.js**: Backend framework.
 - **MongoDB**: Database for storing users and recipes.
 - **JWT**: For user authentication and session management.
-- **Swagger**: API documentation.
+- **Swagger**: API documentation. (https://reciep-app-ceoj.onrender.com/api-docs/#/)
 
 ## Prerequisites
 
